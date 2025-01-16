@@ -62,6 +62,7 @@ const Footer = () => {
             <i className="fa-brands fa-youtube" style={{color: '#ffffff'}}></i>
           </div>
         </div>
+        <h2 className='text-center text-[#61696C]'>Created By Mamark</h2>
       </div>
     </div>
   );
