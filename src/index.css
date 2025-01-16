@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+
+
+@font-face {
+  font-family: 'SpiderManFont';
+  src: url('./assets/Spider-Man.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'TheAmazingSpiderMan';
+  src: url('./assets/The-Amazing-Spider-Man.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+.button {
+  
+   padding: 5px 18px;
+   font-size: 16px;
+   cursor: pointer;
+   transition: all 0.3s ease;
+   color: white;
+}
+
+
+.slick-slide > div{
+  margin:0 10px; 
+}
+
+
+.slick-next:before {
+    display: none;
+}
+.slick-prev:before {
+    display: none;
+    
+}
+.slick-dots li.slick-active button:before{
+  color: white !important;
+}
+.slick-dots li button:before{
+  color: rgb(182, 175, 175) !important;
+ 
+  font-size: 1rem !important;
+}
+.slick-dots{
+ top: -50px;
+ height: 30px;
+
+}
+body::-webkit-scrollbar {
+  display: none;  /* Hides the scrollbar on webkit browsers */
+}

@@ -1,0 +1,326 @@
+  [
+  { 
+    "id": 1, 
+    "title": "Batman: Year One", 
+    "description": "Bruce Wayne’s first year as Gotham’s vigilante. Struggling with his new identity as Batman, he faces corruption, crime, and distrust from the police, particularly officer James Gordon. This dark, gritty origin story shows Batman’s evolution into the symbol of justice that Gotham needs.",
+    "image": "/movie-poster/batman.webp", 
+    "Director": "Lauren Montgomery , Sam Liu",
+    "Writer": "Frank Miller",
+    "Trailer": "https://www.youtube.com/embed/s86sUsWRx0Q?si=7IN3Aw3JAPkAQiax",
+    "time": "1h 4min",  
+    "rating": "8.9/10", 
+    "year": "2011", 
+    "actors": [
+      { "name": "Christian Bale", "character": "Bruce Wayne", "image": "https://i.postimg.cc/hvXTVHgr/download.jpg" },
+      { "name": "Heath Ledger", "character": "Joker", "image": "https://i.postimg.cc/NGKd6ndS/download.jpg" },
+      { "name": "Aaron Eckhart", "character": "Harvey Dent", "image": "https://i.postimg.cc/pTqJffj2/download.jpg" },
+      { "name": "Gary Oldman", "character": "James Gordon", "image": "https://i.postimg.cc/CLDJtqT4/download.jpg" }
+    ]
+  },
+  { 
+    "id": 2, 
+    "title": "Deadpool", 
+    "description": "Deadpool follows Wade Wilson, a former mercenary who undergoes a rogue experiment to cure his terminal cancer, gaining superhuman healing abilities but becoming disfigured. Adopting the persona of Deadpool, he embarks on a revenge mission against Ajax, the man responsible for his transformation.",
+    "image": "/movie-poster/deadpool.avif",
+    "Trailer": "https://www.youtube.com/embed/Xithigfg7dA?si=KzDTBVigiP7feZG1",
+    "time": "1h 48min",  
+    "rating": "8.6/10", 
+    "year": "2016",
+    "Director": "Tim Miller",
+    "Writer": "Rhett Reese , Paul Wernick",
+    "actors": [
+      { "name": "Ryan Reynolds", "character": "Deadpool", "image": "https://i.postimg.cc/yxTHv79H/download.jpg" },
+      { "name": "Morena Baccarin", "character": "Vanessa Carlysle", "image": "https://i.postimg.cc/zfTPn0Tm/download.jpg" },
+      { "name": "T.J. Miller", "character": "Weasel", "image": "https://i.postimg.cc/5yz3Vtgh/download.jpg" },
+      { "name": "Ed Skrein", "character": "Ajax", "image": "https://i.postimg.cc/3RvpycGp/download.jpg" }
+    ]
+  },
+  { 
+    "id": 3, 
+    "title": "Spider-Man No Way Home", 
+    "description": "Follows Peter Parker as he seeks Doctor Strange's help to erase his revealed identity, but the spell backfires, opening the multiverse. Villains from other dimensions arrive, forcing Peter to face his greatest challenges, make tough choices, and embrace his role as Spider-Man.",
+    "image": "/movie-poster/spiderman.avif",
+    "Trailer": "https://www.youtube.com/embed/JfVOs4VSpmA?si=GJSLYOq0L1hrqAY3",
+    "time": "2h 28min",  
+    "rating": "9.3/10", 
+    "year": "2021",
+    "Director": "Jon Watts",
+    "Writer": "Chris McKenna , Erik Sommers.",
+    "actors": [
+      { "name": "Tom Holland", "character": "Peter Parker / Spider-Man", "image": "https://i.postimg.cc/yNd9XNMF/download.jpg" },
+      { "name": "Zendaya", "character": "MJ", "image": "https://i.postimg.cc/YShGLsFR/download.jpg" },
+      { "name": "Benedict Cumberbatch", "character": "Doctor Strange", "image": "https://i.postimg.cc/kgZMzXVN/download.jpg" },
+      { "name": "Jacob Batalon", "character": "Ned Leeds", "image": "https://i.postimg.cc/1RJQb52g/download.jpg" }
+    ]
+  },
+  { 
+    "id": 4, 
+    "title": "Captain America", 
+    "description": "Steve Rogers, a weak soldier, is transformed into a super-soldier during WWII to fight the Nazis. As Captain America, he battles Hydra and its leader, the Red Skull. After the war, he’s frozen and later awakens in the modern world to join the Avengers.",
+    "image": "/movie-poster/captain.jpg",
+    "Trailer": "https://www.youtube.com/embed/W4DlMggBPvc?si=3UCVeL6wRLnbolmX",
+    "time": "2h 4min",
+    "rating": "8.6/10",
+    "year": "2011",
+    "Director": "Joe Johnston",
+    "Writer": "Christopher Markus, Stephen McFeely",
+    "actors": [
+      { "name": "Chris Evans", "character": "Steve Rogers / Captain America", "image": "https://i.postimg.cc/W3K1LNfc/download.jpg" },
+      { "name": "Hayley Atwell", "character": "Peggy Carter", "image": "https://i.postimg.cc/sgVZsJJj/download.jpg" },
+      { "name": "Tommy Lee Jones", "character": "Colonel Chester Phillips", "image": "https://i.postimg.cc/hj7XpZKr/download.jpg" },
+      { "name": "Sebastian Stan", "character": "James Buchanan Barnes / Bucky", "image": "https://i.postimg.cc/VLwJWFpq/download.jpg" }
+    ]
+  },
+  { 
+    "id": 5, 
+    "title": "Iron Man Season 3", 
+    "description": "Tony Stark must confront a dangerous new adversary, the Mandarin, whose mysterious powers threaten global security. With his technology stolen and his reputation at stake, Stark must rely on his genius and resourcefulness to protect the world and rebuild everything he holds dear.",
+    "image": "/movie-poster/iron.jpg",
+    "Trailer": "https://www.youtube.com/embed/f_h95mEd4TI?si=BsLxzL93u29H2Lvy",
+    "time": "2h 10min",
+    "rating": "7.2/10",
+    "year": "2013",
+    "Director": "Shane Black",
+    "Writer": "Shane Black, Drew Pearce",
+    "actors": [
+      { "name": "Robert Downey Jr.", "character": "Tony Stark / Iron Man", "image": "https://i.postimg.cc/9Ffh2R73/download.jpg" },
+      { "name": "Gwyneth Paltrow", "character": "Virginia 'Pepper' Potts", "image": "https://i.postimg.cc/9FNjQmdD/download.jpg" },
+      { "name": "Don Cheadle", "character": "James 'Rhodey' Rhodes", "image": "https://i.postimg.cc/m2n0Gd4M/download.jpg" },
+      { "name": "Guy Pearce", "character": "Aldrich Killian", "image": "https://i.postimg.cc/1zGTwsqc/download.jpg" }
+    ]
+  },
+  { 
+    "id": 6, 
+    "title": "The Flash", 
+    "description": "Barry Allen, a forensic scientist with the power of super-speed, fights to protect Central City from metahuman threats. As he uncovers hidden secrets about his past, he faces dangerous enemies like Reverse-Flash and struggles with the consequences of time travel, while striving to balance his heroic and personal life.",
+    "image": "/movie-poster/flash.jpg", 
+    "Trailer": "https://www.youtube.com/embed/IgVyroQjZbE?si=EhB2eeMgjo1pneZn",
+    "time": "2h 24min",
+    "rating": "7.0/10",
+    "year": "2023",
+    "Director": "Andy Muschietti",
+    "Writer": "John Francis Daley, Jonathan Goldstein",
+    "actors": [
+      { "name": "Ezra Miller", "character": "Barry Allen / The Flash", "image": "https://i.postimg.cc/52MD0XHN/download.jpg" },
+      { "name": "Ben Affleck", "character": "Bruce Wayne / Batman", "image": "https://i.postimg.cc/yd5bzx4K/download.jpg" },
+      { "name": "Sasha Calle", "character": "Supergirl", "image": "https://i.postimg.cc/C1ZcJ0ZQ/download.jpg" },
+      { "name": "Michael Keaton", "character": "Bruce Wayne / Batman", "image": "https://i.postimg.cc/mZHdHbWc/download.jpg" }
+    ]
+  },
+  { 
+    "id": 7, 
+    "title": "Titanic (1997)", 
+    "description": "Titanic is a 1997 epic romance tells the story of Jack and Rose, two passengers from different social classes who fall in love aboard the ill-fated RMS Titanic. Amidst the ship's tragic sinking, their love faces the ultimate test, with survival and sacrifice shaping their emotional journey through the disaster.",
+    "image": "/movie-poster/titanic.jpg",
+    "Trailer": "https://www.youtube.com/embed/kVrqfYjkTdQ?si=rmdt06mZ23bK4oxl",
+    "time": "3h 14min", 
+    "rating": "7.8/10", 
+    "year": "1997", 
+    "Director": "James Cameron",
+    "Writer": "James Cameron", 
+    "actors": [
+      { "name": "Leonardo DiCaprio", "character": "Jack Dawson", "image": "https://i.postimg.cc/XnLhfrRr/download.jpg" },
+      { "name": "Kate Winslet", "character": "Rose DeWitt Bukater", "image": "https://i.postimg.cc/sfD79n2Q/download.jpg" },
+      { "name": "Billy Zane", "character": "Caledon 'Cal' Hockley", "image": "https://i.postimg.cc/3yMjFSPg/download.jpg" },
+      { "name": "Danny Nucci", "character": "Felix Turner", "image": "https://i.postimg.cc/vH3gLg0f/download.jpg" }
+    ]
+  },
+ { 
+    "id": 8, 
+    "title": "Avatar", 
+    "description": "Jake Sully, a paraplegic former Marine, who joins the Avatar Program on the lush moon Pandora. There, he inhabits an avatar body and forms a bond with the indigenous Na'vi people. As tensions rise between the Na'vi and human invaders, Jake must choose his allegiance.",
+    "image": "/movie-poster/avatar.webp",
+    "Trailer": "https://www.youtube.com/embed/5PSNL1qE6VY?si=tX5l8oFOMEkHeSx2",
+    "actors": [
+      { "name": "Sam Worthington", "character": "Jake Sully", "image": "https://i.postimg.cc/gj1F44kv/download.jpg" },
+      { "name": "Zoe Saldana", "character": "Neytiri", "image": "https://i.postimg.cc/P5snw67H/download.jpg" },
+      { "name": "Sigourney Weaver", "character": "Dr. Grace Augustine", "image": "https://i.postimg.cc/2ysMn62G/download.jpg" },
+      { "name": "Stephen Lang", "character": "Colonel Miles Quaritch", "image": "https://i.postimg.cc/2jgS07tc/download.jpg" }
+    ],
+    "time": "2h 42min",
+    "rating": "8.0/10",
+    "year": "2009",
+    "Director": "James Cameron",
+    "Writer": "James Cameron, Josh Friedman"
+  },
+  { 
+    "id": 9, 
+    "title": "Rush Hour: Season 3", 
+    "description": "Rush Hour Season 3 continues the action-packed comedy of Detectives Lee and Carter. Lee, a skilled martial artist from Hong Kong, and Carter, a fast-talking cop from Los Angeles, team up to solve international crimes. In this season, their dynamic partnership faces new challenges, including more dangerous criminals and unexpected alliances.",
+    "image": "/movie-poster/rush.jpg",
+    "Trailer": "https://www.youtube.com/embed/FRDRWXfQyJE?si=Zy2BRG5KWVf3ZN_b",
+    "actors": [
+      { "name": "Chris Tucker", "character": "James Carter", "image": "https://i.postimg.cc/gkqb3yb6/download.jpg" },
+      { "name": "Jackie Chan", "character": "Chief Inspector Lee", "image": "https://i.postimg.cc/t4qQk19v/download.jpg" },
+      { "name": "Max von Sydow", "character": "Vince", "image": "https://i.postimg.cc/hPnH4JQ4/download.jpg" },
+      { "name": "Henry O", "character": "Mild-mannered man", "image": "https://i.postimg.cc/Gm7Njq79/download.jpg" }
+    ],
+    "time": "1h 31min",
+    "rating": "7.0/10",
+    "year": "2007",
+    "Director": "Brett Ratner",
+    "Writer": "Ross LaManna, Jeff Nathanson"
+  },
+  { 
+    "id": 10, 
+    "title": "Star Wars: The Force Awakens", 
+    "description": "A scavenger who discovers her connection to the Force, as she joins the Resistance to fight the First Order. Alongside Finn, Han Solo, and Chewbacca, they battle Kylo Ren and the sinister Supreme Leader Snoke to restore balance to the galaxy.",
+    "image": "/movie-poster/star.webp",
+    "Trailer": "https://www.youtube.com/embed/sGbxmsDFVnE?si=1SwvUZNkoCKWm9VB",
+    "time": "2h 15min",
+    "rating": "8.0/10",
+    "year": "2015",
+    "Director": "J.J. Abrams",
+    "Writer": "Lawrence Kasdan, J.J. Abrams, Michael Arndt",
+    "actors": [
+      { "name": "Daisy Ridley", "character": "Rey", "image": "https://i.postimg.cc/sxj9qR1z/download.jpg" },
+      { "name": "John Boyega", "character": "Finn", "image": "https://i.postimg.cc/CKbGKKqY/download.jpg" },
+      { "name": "Adam Driver", "character": "Kylo Ren", "image": "https://i.postimg.cc/7hZ0XMQY/download.jpg" },
+      { "name": "Oscar Isaac", "character": "Poe Dameron", "image": "https://i.postimg.cc/5NGLqz5b/download.jpg" }
+    ]
+  },
+  { 
+    "id": 11, 
+    "title": "The Lion King", 
+    "description": "The story of Simba, a young lion prince who is exiled after his father's death. Growing up in the wild, Simba returns to reclaim his rightful place as king and defeat his treacherous uncle Scar, restoring peace to the Pride Lands.",
+    "image": "/movie-poster/lion.webp",
+    "Trailer": "https://www.youtube.com/embed/4sj1MT05lAA?si=sXz3rtT4ZaVGxgYb",
+    "time": "1h 58min",
+    "rating": "6.9/10",
+    "year": "2019",
+    "Director": "Jon Favreau",
+    "Writer": "Jeff Nathanson",
+    "actors": [
+      { "name": "Donald Glover", "character": "Simba", "image": "https://i.postimg.cc/jStwhhwV/download.jpg" },
+      { "name": "Beyoncé Knowles-Carter", "character": "Nala", "image": "https://i.postimg.cc/fbgVDnHZ/download.jpg" },
+      { "name": "James Earl Jones", "character": "Mufasa", "image": "https://i.postimg.cc/9FjrWBB4/download.jpg" },
+      { "name": "Chiwetel Ejiofor", "character": "Scar", "image": "https://i.postimg.cc/QMVM6Yjz/download.jpg" }
+    ]
+  },
+  { 
+    "id": 12, 
+    "title": "Avengers: Infinity War", 
+    "description": "Avengers: Infinity War brings together Earth's mightiest heroes as they unite against the powerful Thanos, who seeks to collect all six Infinity Stones and wipe out half of all life in the universe. With the stakes higher than ever, the Avengers must make impossible choices to prevent Thanos's devastating plan.",
+    "image": "/movie-poster/avenger.avif",
+    "Trailer": "https://www.youtube.com/embed/6ZfuNTqbHE8?si=VqzIJQw43haiKx8z",
+    "time": "2h 29min",
+    "rating": "8.4/10",
+    "year": "2018",
+    "Director": "Anthony Russo, Joe Russo",
+    "Writer": "Christopher Markus, Stephen McFeely",
+    "actors": [
+      { "name": "Robert Downey Jr.", "character": "Tony Stark / Iron Man", "image": "https://i.postimg.cc/Cx5YYZ9B/download.jpg" },
+      { "name": "Chris Hemsworth", "character": "Thor", "image": "https://i.postimg.cc/CKfgB3hw/download.jpg" },
+      { "name": "Scarlett Johansson", "character": "Natasha Romanoff / Black Widow", "image": "https://i.postimg.cc/Rhv5Yqc0/download.jpg" },
+      { "name": "Mark Ruffalo", "character": "Bruce Banner / Hulk", "image": "https://i.postimg.cc/m22WNzLX/download.jpg" }
+    ]
+  },
+  { 
+    "id": 13, 
+    "title": "Gladiator", 
+    "description": "The story follows Maximus Decimus Meridius, a betrayed Roman general who seeks revenge against Commodus, the corrupt emperor responsible for the death of his family. Through epic gladiatorial battles, Maximus fights for justice, honor, and redemption in a tale of vengeance set in ancient Rome.",
+    "image": "/movie-poster/gladiator.avif",
+    "Trailer": "https://www.youtube.com/embed/uvbavW31adA?si=1brcZfmoEBdYVOmw",
+    "time": "2h 35min",
+    "rating": "8.5/10",
+    "year": "2000",
+    "Director": "Ridley Scott",
+    "Writer": "David Franzoni, John Logan, William Nichols",
+    "actors": [
+      { "name": "Russell Crowe", "character": "Maximus Decimus Meridius", "image": "https://i.postimg.cc/90g8BfbK/download.jpg" },
+      { "name": "Joaquin Phoenix", "character": "Commodus", "image": "https://i.postimg.cc/TYhH3rY6/download.jpg" },
+      { "name": "Connie Nielsen", "character": "Lucilla", "image": "https://i.postimg.cc/x1zxKnzp/download.jpg" },
+      { "name": "Oliver Reed", "character": "Proximo", "image": "https://i.postimg.cc/fLw8ndg1/Oliver-Reed-002.webp" }
+    ]
+  },
+  { 
+    "id": 14, 
+    "title": "The Godfather", 
+    "description": "The Godfather tells the story of Michael Corleone, a reluctant heir to a powerful crime family. As his father, Don Vito Corleone, faces threats from rival factions, Michael becomes more involved in the family's criminal operations, eventually embracing his role as a ruthless Mafia boss.",
+    "image": "/movie-poster/godfather.jpg",
+    "Trailer": "https://www.youtube.com/embed/UaVTIH8mujA?si=0dQyVL3b0okXq3Fl",
+    "time": "2h 55min",
+    "rating": "9.2/10",
+    "year": "1972",
+    "Director": "Francis Ford Coppola",
+    "Writer": "Mario Puzo, Francis Ford Coppola",
+    "actors": [
+      { "name": "Marlon Brando", "character": "Vito Corleone", "image": "https://i.postimg.cc/t4B3Zcrv/download.jpg" },
+      { "name": "Al Pacino", "character": "Michael Corleone", "image": "https://i.postimg.cc/q7Y2Q3H8/download.jpg" },
+      { "name": "James Caan", "character": "Sonny Corleone", "image": "https://i.postimg.cc/MKxVswNr/download.jpg" },
+      { "name": "Richard S. Castellano", "character": "Clemenza", "image": "https://i.postimg.cc/mggMswbY/download.jpg" }
+    ]
+  },
+  { 
+    "id": 15, 
+    "title": "Good Will Hunting", 
+    "description": "A young, gifted janitor at MIT, Will Hunting, struggles with his troubled past while a therapist helps him uncover his potential. With the support of his best friend, Will faces a future full of opportunities while confronting the emotional scars that hold him back.",
+    "image": "/movie-poster/good.webp",
+    "Trailer": "https://www.youtube.com/embed/ReIJ1lbL-Q8?si=OyYBj-yFTHYn8Odc",
+    "time": "2h 6min",
+    "rating": "8.3/10",
+    "year": "1997",
+    "Director": "Gus Van Sant",
+    "Writer": "Matt Damon, Ben Affleck",
+    "actors": [
+      { "name": "Matt Damon", "character": "Will Hunting", "image": "https://i.postimg.cc/QCK403zM/download.jpg" },
+      { "name": "Robin Williams", "character": "Sean Maguire", "image": "https://i.postimg.cc/c1V0Z40X/download.jpg" },
+      { "name": "Ben Affleck", "character": "Chuckie Sullivan", "image": "https://i.postimg.cc/yd5bzx4K/download.jpg" },
+      { "name": "Minnie Driver", "character": "Skylar", "image": "https://i.postimg.cc/3wJH9kFJ/download.jpg" }
+    ]
+  },
+  { 
+    "id": 16, 
+    "title": "To Kill A Mockingbird", 
+    "description": "Set in the 1930s, the film follows young Scout Finch and her brother Jem as their father, lawyer Atticus Finch, defends a black man wrongly accused of raping a white woman in a racially segregated Southern town. The case exposes deep racial prejudices, challenging their understanding of justice and morality.",
+    "image": "/movie-poster/mockingbird.jpg",
+    "Trailer": "https://www.youtube.com/embed/4-CrrtYjrbM?si=wGVYnDkRV6JhQ877",
+    "time": "2h 9min",
+    "rating": "8.3/10",
+    "year": "1962",
+    "Director": "Robert Mulligan",
+    "Writer": "Harper Lee, Horton Foote",
+    "actors": [
+      { "name": "Gregory Peck", "character": "Atticus Finch", "image": "https://i.postimg.cc/Gh7NrXFr/download.jpg" },
+      { "name": "Mary Badham", "character": "Scout Finch", "image": "https://i.postimg.cc/d0dS2vzt/download.jpg" },
+      { "name": "Brock Peters", "character": "Tom Robinson", "image": "https://i.postimg.cc/KjcqhT4R/download.jpg" },
+      { "name": "Robert Duvall", "character": "Boo Radley", "image": "https://i.postimg.cc/5twnHgCX/481-v9-bb.jpg" }
+    ]
+  },
+  { 
+    "id": 17, 
+    "title": "Breakfast at Tiffany's", 
+    "description": "Set in New York City, Breakfast at Tiffany's follows the unconventional relationship between Holly Golightly, a lively socialite with a mysterious past, and Paul Varjak, a struggling writer. As they form a bond, they navigate love, identity, and the search for belonging, set against the backdrop of high society.",
+    "image": "/movie-poster/tiffanny.jpg",
+    "Trailer": "https://www.youtube.com/embed/KlZ4fYqjGJI?si=oLDM2f796bpe40dA",
+    "time": "1h 55min",
+    "rating": "7.6/10",
+    "year": "1961",
+    "Director": "Blake Edwards",
+    "Writer": "George Axelrod",
+    "actors": [
+      { "name": "Audrey Hepburn", "character": "Holly Golightly", "image": "https://i.postimg.cc/28RdWhCv/download.jpg" },
+      { "name": "George Peppard", "character": "Paul Varjak", "image": "https://i.postimg.cc/Jh2ZzBTs/download.jpg" },
+      { "name": "Patricia Neal", "character": "2E", "image": "https://i.postimg.cc/5ywCgKfz/download.jpg" },
+      { "name": "Buddy Ebsen", "character": "Doc Golightly", "image": "https://i.postimg.cc/Kv2Ljb5D/download.jpg" }
+    ]
+  },
+  { 
+    "id": 18, 
+    "title": "The Wizard of Oz", 
+    "description": "The Wizard of Oz is a beloved fantasy film about a young girl named Dorothy, who is swept away to a magical land and must follow the Yellow Brick Road to find the Wizard and return home.",
+    "image": "/movie-poster/wizard.avif",
+    "Trailer": "https://www.youtube.com/embed/H_3T4DGw10U?si=__eegdk_4nHnYhq0",
+    "time": "1h 42min",
+    "rating": "8.0/10",
+    "year": "1939",
+    "Director": "Victor Fleming",
+    "Writer": "Noel Langley, Florence Ryerson, Edgar Allan Woolf",
+    "actors": [
+      { "name": "Judy Garland", "character": "Dorothy Gale", "image": "https://i.postimg.cc/FK3N7Mp0/download.jpg" },
+      { "name": "Frank Morgan", "character": "The Wizard", "image": "https://i.postimg.cc/mD4RMmpJ/download.jpg" },
+      { "name": "Ray Bolger", "character": "Scarecrow", "image": "https://i.postimg.cc/5y7Mhb9W/download.jpg" },
+      { "name": "Bert Lahr", "character": "Cowardly Lion", "image": "https://i.postimg.cc/c4zSTx5Q/download.jpg" }
+    ]
+  }
+]
