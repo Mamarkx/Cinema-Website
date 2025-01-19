@@ -62,7 +62,7 @@ const Booking = () => {
       <div className="max-w-4xl mx-auto mb-12">
         {/* Movie Information */}
         <div className="mb-8">
-          <div className="w-full max-w-2xl p-6 bg-gray-800 rounded-lg shadow-lg mx-auto text-white">
+          <div className="w-full max-w-2xl p-6 bg-gray-600 rounded-lg shadow-lg mx-auto text-white">
             <h2 className="text-lg font-bold mb-4">Movie Selection</h2>
             <div className="grid md:grid-cols-2 sm:grid-cols-1 gap-6">
               <div>
@@ -120,7 +120,7 @@ const Booking = () => {
 
         {/* Seats */}
         <div className="mt-16 mb-8 m-2">
-          <div className="grid grid-cols-10  gap-3 justify-items-center">
+          <div className="grid grid-cols-6  md:grid-cols-10  gap-3 justify-items-center">
             {Array.from({ length: totalSeats }).map((_, index) => {
               const status = getSeatStatus(index);
                 return (
