@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { Ticket, X } from 'lucide-react';
 import movieData from '../movieData.json'
 
-const Main = ({ title, Description, ID }) => {
+const Main = ({ title, Description, ID , images , currentIndex ,setCurrentIndex }) => {
   const [open, setOpen] = useState(false);
     const movie = movieData.find(movie => movie.id === ID);
   const handleTrailerClick = () => {
@@ -11,7 +11,8 @@ const Main = ({ title, Description, ID }) => {
   };
 
   return (
-    <div className="mx-4 relative md:mx-20 h-screen w-auto text-white flex flex-col md:flex-row justify-between">
+    <div className="mx-4 relative md:mx-20 min-h-screen w-auto text-white ">
+    <div className="flex flex-col md:flex-row justify-between">
       {open  && (
         <div className="fixed inset-0 bg-black bg-opacity-75 z-50 flex items-center justify-center p-4">
           <div className="relative w-full max-w-4xl">
@@ -21,13 +22,13 @@ const Main = ({ title, Description, ID }) => {
               aria-label="Close trailer"
             >
               <X size={24} />
-            </button>
+            </button>  
             <div className="relative pt-[56.25%]">
               <iframe
                 className="absolute inset-0 w-full h-full rounded-lg"
                 src={movie.Trailer}
                 title={`${movie.title} Trailer`}
-                allowFullScreen
+                allowFullScreen 
               ></iframe>
             </div>
           </div>
@@ -76,7 +77,7 @@ const Main = ({ title, Description, ID }) => {
           </div>
 
           {/* Trailer and Ticket Buttons Section */}
-          <div className="trailer-ticket-buttons flex flex-wrap justify-center gap-6 lg:gap-12 lg:pl-2 sm:gap-6 max-w-[500px] mx-auto mt-5 sm:justify-center lg:justify-start">
+          <div className="trailer-ticket-buttons flex flex-wrap justify-center gap-2 lg:gap-12 lg:pl-2 4 max-w-[500px] mx-auto mt-5 sm:justify-center lg:justify-start">
             <button
               onClick={handleTrailerClick} // Open the trailer modal
               className="w-[200px] h-[60px] rounded-xl flex items-center justify-center space-x-2 bg-[#18158B] border-2 border-transparent transition-all duration-300 transform hover:bg-transparent hover:border-[#18158B] hover:scale-105"
@@ -97,6 +98,22 @@ const Main = ({ title, Description, ID }) => {
       <div className="img w-full mt-2 md:mt-0">
         {/* Add your image or content here */}
       </div>
+      
+    </div>
+   <div className="flex justify-center mt-12 pb-7 lg:mt-48 ">
+        <div className="flex space-x-2">
+          {images.map((_, index) => (
+            <button
+              key={index}
+              onClick={() => setCurrentIndex(index)}
+              className={`h-3 w-3 rounded-full ${
+                index === currentIndex ? "bg-white" : "bg-gray-400"
+              }`}
+            ></button>
+          ))}
+        </div>
+      </div>
+
     </div>
   );
 };

@@ -50,18 +50,19 @@ const Footer = () => {
         </div>
         <hr class="h-[2px] my-2 mx-8 bg-gray-200 border-0 dark:bg-gray-700 "></hr>
         <div className="flex flex-col lg:flex-row items-center justify-between mt-8">
-          <div className="flex items-center mb-4 lg:mb-0">
-            <img src={Logo} alt="logo" className="w-20 h-10" />
-            <a href="#" className="hover:text-gray-300 text-2xl text-white ml-2">CineFree</a>
-          </div>
-          <div className="text-[#61696C] text-lg">&copy; {new Date().getFullYear()} CineFree. All Rights Reserved.</div>
-          <div className="social-media flex space-x-4 mt-4 lg:mt-0">
-            <i className="fa-brands fa-facebook-f" style={{color: '#ffffff'}}></i>
-            <i className="fa-brands fa-instagram" style={{color: '#ffffff'}}></i>
-            <i className="fa-brands fa-twitter" style={{color: '#ffffff'}}></i>
-            <i className="fa-brands fa-youtube" style={{color: '#ffffff'}}></i>
-          </div>
+              <div className="flex items-center mb-4 lg:mb-0">
+                <img src={Logo} alt="logo" className="w-20 h-10" />
+                <a href="#" className="hover:text-gray-300 text-2xl text-white ml-2">CineFree</a>
+              </div>
+              <div className="text-[#61696C] text-lg">&copy; {new Date().getFullYear()} CineFree. All Rights Reserved.</div>
+              <div className="social-media flex space-x-4 mt-4 lg:mt-0">
+                <i className="fa-brands fa-facebook-f" style={{color: '#ffffff'}}></i>
+                <i className="fa-brands fa-instagram" style={{color: '#ffffff'}}></i>
+                <i className="fa-brands fa-twitter" style={{color: '#ffffff'}}></i>
+                <i className="fa-brands fa-youtube" style={{color: '#ffffff'}}></i>
+              </div>
         </div>
+        <h2 className='text-center text-[#61696C]'>Created By Mamark</h2>
       </div>
     </div>
   );

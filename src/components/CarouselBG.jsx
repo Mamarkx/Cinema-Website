@@ -51,24 +51,16 @@ const description = [
         title={titles[currentIndex]}
         Description={description[currentIndex]}
         ID={currentIndex + 1}
+        currentIndex={currentIndex}
+        images={images}
+        setCurrentIndex={setCurrentIndex}
         
       />
   
 
 
       {/* Dots */}
-      <div className="absolute bottom-4 left-1/2 transform -translate-x-1/2 flex space-x-2 ">
-        {images.map((_, index) => (
-          <button
-            key={index}
-            onClick={() => setCurrentIndex(index)}
-            className={`h-3 w-3 rounded-full ${
-              index === currentIndex ? "bg-white" : "bg-gray-400 "
-            }`}
-          ></button>
-        ))}
-      </div>
-
+     
  
     
 
